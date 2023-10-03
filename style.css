@@ -1,0 +1,35 @@
+/*----------------------------------------titre----------------------------------------------------*/
+#titre {
+    font-family: 'Space Mono', monospace ;
+    color: #4C4CAD;
+    display: flex;
+    justify-content: center;
+}
+/*-------------------------------------------le reste---------------------------------------------*/
+#titre2 {
+    display: flex;
+    text-align: center;
+}
+
+.container2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-soustitre{
+    width: 40%;
+    margin-left: 5em;
+}
+.soustitre {
+    color: #FF9B29;
+    display: flex;
+}
+/*---------------------------------------------footer--------------------------------------------------------*/
+.container-footer {
+    color: #4C4CAD;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8em;
+}
+
